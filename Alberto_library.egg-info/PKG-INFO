@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Alberto-library
+Version: 0.0.1
+Summary: Functions pln
+Home-page: https://github.com/AlbertoPad/Albert_Library
+Author: Alberto Pad
+Author-email: author@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# AlbertLibrary
+ 

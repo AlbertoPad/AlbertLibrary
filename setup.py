@@ -1,12 +1,15 @@
 from setuptools import setup
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+    
 setup(
-    name="Albert_Library",
-    version="0.1",
-    description="A library for pln",
+    name="Alberto_library",
+    version="0.0.1",
     author="Alberto Pad",
-    author_email="apadillanieto@gmail.com",
+    author_email="author@example.com",
+    description="Functions pln",
+
     url="https://github.com/AlbertoPad/Albert_Library",
-    packages=["Albert_Library"],
-    install_requires=["nltk", "spacy"],
+    py_modules=['pln'],
 )
