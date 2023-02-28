@@ -6,7 +6,7 @@ setup(
     description="A library for pln",
     author="Alberto Pad",
     author_email="apadillanieto@gmail.com",
-    url="https://github.com/AlbertoPad/AlbertLibrary",
-    packages=["AlbertLibrary"],
+    url="https://github.com/AlbertoPad/Albert_Library",
+    packages=["Albert_Library"],
     install_requires=["nltk", "spacy"],
 )
